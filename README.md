@@ -1,4 +1,4 @@
-## hello! 👋🏻
+## hello
 
 i am a junior infrastructure engineer documenting my professional journey and technical interests here
 
